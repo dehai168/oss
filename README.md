@@ -4,16 +4,17 @@
 > 免费搭建
 
 # 界面
- 
-
+> 待定
 # 技术栈
 - es6
 - vue+vue router+vuex+ele ui+webpack
 - node>6.13
 
 # 功能列表
-this is a client edit
-
+|功能|描述|状态|
+|----|----|---|
+|登录|录入key和密码|未完成|
+|注销|||
 # 参考
 - 阿里云市场客户端(PS:研究了下目录文件,应该是用electron技术实现) 
   [客户端地址]()
