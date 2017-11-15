@@ -1,11 +1,11 @@
-# oss
+# 背景
 a b/s client  for aliyun oss 
 
-# disc
+# 界面
 ok this is  a test
 
-# server
+# 技术栈
 this is a server edit
 
-# client
+# 功能列表
 this is a client edit
