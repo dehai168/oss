@@ -7,7 +7,7 @@
 > 待定
 # 技术栈
 - es6
-- vue+vue router+vuex+ele ui+webpack
+- vue+vue router+vuex+element ui+webpack
 - node>6.13
 
 # 功能列表
