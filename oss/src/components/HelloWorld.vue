@@ -2,6 +2,13 @@
   <div>
     <h5>{{ $t("message.hello")}}</h5>
     <el-button>{{ msg }}</el-button>
+    <div class="block">
+    <span class="demonstration">默认</span>
+    <el-date-picker
+      type="date"
+      placeholder="选择日期">
+    </el-date-picker>
+  </div>
   </div>
 </template>
 
